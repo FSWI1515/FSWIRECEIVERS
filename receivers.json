@@ -1,0 +1,19 @@
+{
+  "updated": "2026-11-09T13:22:34.514Z",
+  "receivers": [
+    {
+      "date": "2026-11-12",
+      "time": "12:00",
+      "carrier": "SAIA",
+      "customer": "HFC",
+      "ref": "",
+      "door": "DOOR 1",
+      "type": "LTL / Freight",
+      "status": "scheduled",
+      "qty": 1,
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmw9ajo9e7x9a"
+    }
+  ]
+}
