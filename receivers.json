@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T20:03:40.379Z",
+  "updated": "2026-11-09T20:06:12.288Z",
   "receivers": [
     {
       "date": "2026-11-10",
@@ -23,7 +23,7 @@
       "ref": "",
       "door": "DOOR 1",
       "type": "LTL / Freight",
-      "status": "scheduled",
+      "status": "completed",
       "qty": 1,
       "unit": "pallets",
       "notes": "",
