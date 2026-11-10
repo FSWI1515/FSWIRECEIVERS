@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T14:36:15.547Z",
+  "updated": "2026-11-10T14:36:20.488Z",
   "receivers": [
     {
       "date": "2026-11-10",
@@ -9,7 +9,7 @@
       "ref": "POCS",
       "door": "DOOR 1",
       "type": "LTL / Freight",
-      "status": "completed",
+      "status": "receiving",
       "qty": 1,
       "unit": "pallets",
       "notes": "",
