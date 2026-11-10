@@ -1,4 +1,19 @@
 {
-  "updated": "2026-11-10T14:26:04.980Z",
-  "receivers": []
+  "updated": "2026-11-10T14:33:17.582Z",
+  "receivers": [
+    {
+      "date": "2026-11-10",
+      "time": "08:00",
+      "carrier": "SAIA",
+      "customer": "HFC",
+      "ref": "POCS",
+      "door": "DOOR 1",
+      "type": "LTL / Freight",
+      "status": "scheduled",
+      "qty": 1,
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmwasigwegr4s"
+    }
+  ]
 }
