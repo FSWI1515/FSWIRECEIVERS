@@ -1,19 +1,4 @@
 {
-  "updated": "2026-11-10T14:25:56.602Z",
-  "receivers": [
-    {
-      "date": "2026-11-13",
-      "time": "11:00",
-      "carrier": "prueba 2",
-      "customer": "11",
-      "ref": "11",
-      "door": "11",
-      "type": "LTL / Freight",
-      "status": "scheduled",
-      "qty": 11,
-      "unit": "pallets",
-      "notes": "",
-      "id": "rmw9ovhlnmwbm"
-    }
-  ]
+  "updated": "2026-11-10T14:26:04.980Z",
+  "receivers": []
 }
