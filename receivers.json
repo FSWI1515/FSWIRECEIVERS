@@ -1,20 +1,6 @@
 {
-  "updated": "2026-11-10T13:08:41.504Z",
+  "updated": "2026-11-10T14:25:56.602Z",
   "receivers": [
-    {
-      "date": "2026-11-11",
-      "time": "10:00",
-      "carrier": "SAIA",
-      "customer": "HFC",
-      "ref": "",
-      "door": "DOOR 1",
-      "type": "Full truckload",
-      "status": "scheduled",
-      "qty": 1,
-      "unit": "pallets",
-      "notes": "",
-      "id": "rmwapho68m7df"
-    },
     {
       "date": "2026-11-13",
       "time": "11:00",
