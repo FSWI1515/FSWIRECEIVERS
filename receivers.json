@@ -1,20 +1,6 @@
 {
-  "updated": "2026-11-09T20:06:12.288Z",
+  "updated": "2026-11-10T13:07:06.863Z",
   "receivers": [
-    {
-      "date": "2026-11-10",
-      "time": "09:00",
-      "carrier": "PRUEBA 1",
-      "customer": "111",
-      "ref": "111",
-      "door": "1",
-      "type": "Full truckload",
-      "status": "scheduled",
-      "qty": 1,
-      "unit": "pallets",
-      "notes": "",
-      "id": "rmw9okswvfn70"
-    },
     {
       "date": "2026-11-12",
       "time": "12:00",
