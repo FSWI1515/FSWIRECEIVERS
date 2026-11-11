@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T19:07:10.798Z",
+  "updated": "2026-11-11T19:07:24.021Z",
   "receivers": [
     {
       "date": "2026-11-12",
@@ -28,6 +28,20 @@
       "unit": "pallets",
       "notes": "",
       "id": "rmwchqjim4eot"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "08:00",
+      "carrier": "jhjjhn",
+      "customer": "",
+      "ref": "",
+      "door": "",
+      "type": "LTL / Freight",
+      "status": "scheduled",
+      "qty": "",
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmwchqtpxj67b"
     }
   ]
 }
