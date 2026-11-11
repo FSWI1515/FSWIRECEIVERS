@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T18:01:23.014Z",
+  "updated": "2026-11-11T19:07:10.798Z",
   "receivers": [
     {
       "date": "2026-11-12",
@@ -14,6 +14,20 @@
       "unit": "pallets",
       "notes": "907 lbs\n#401",
       "id": "rmwcf8bxbav5x"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "08:00",
+      "carrier": "GREAT LAKES  Appt#052",
+      "customer": "",
+      "ref": "O&H Margarine",
+      "door": "",
+      "type": "LTL / Freight",
+      "status": "scheduled",
+      "qty": 24,
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmwchqjim4eot"
     }
   ]
 }
