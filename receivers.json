@@ -1,4 +1,19 @@
 {
-  "updated": "2026-11-10T18:03:55.332Z",
-  "receivers": []
+  "updated": "2026-11-11T17:57:01.919Z",
+  "receivers": [
+    {
+      "date": "2026-11-12",
+      "time": "08:00",
+      "carrier": "DORH",
+      "customer": "Pinguin / Books",
+      "ref": "",
+      "door": "",
+      "type": "LTL / Freight",
+      "status": "scheduled",
+      "qty": 1,
+      "unit": "pallets",
+      "notes": "907 lbs\n#401",
+      "id": "rmwcf8bxbav5x"
+    }
+  ]
 }
