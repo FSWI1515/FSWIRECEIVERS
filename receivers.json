@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T19:09:15.533Z",
+  "updated": "2026-11-11T19:09:56.503Z",
   "receivers": [
     {
       "date": "2026-11-12",
@@ -42,6 +42,20 @@
       "unit": "pallets",
       "notes": "",
       "id": "rmwcht7rhy5r0"
+    },
+    {
+      "date": "2026-11-13",
+      "time": "08:00",
+      "carrier": "GREAT LAKES  Appt#070",
+      "customer": "",
+      "ref": "O&H Margarine PO#7827",
+      "door": "",
+      "type": "LTL / Freight",
+      "status": "scheduled",
+      "qty": 24,
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmwchu3djb2zg"
     }
   ]
 }
