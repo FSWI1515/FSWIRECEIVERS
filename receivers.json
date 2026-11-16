@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T21:59:54.460Z",
+  "updated": "2026-11-16T22:00:42.828Z",
   "receivers": [
     {
       "date": "2026-11-12",
@@ -126,6 +126,20 @@
       "unit": "pallets",
       "notes": "",
       "id": "rmwjt3xi408na"
+    },
+    {
+      "date": "2026-11-17",
+      "time": "08:00",
+      "carrier": "ZMX",
+      "customer": "",
+      "ref": "Appt#020 10:30",
+      "door": "",
+      "type": "LTL / Freight",
+      "status": "scheduled",
+      "qty": 24,
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmwjt4ytokev5"
     },
     {
       "date": "2026-11-17",
