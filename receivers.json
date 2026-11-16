@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T22:00:42.828Z",
+  "updated": "2026-11-16T22:07:24.857Z",
   "receivers": [
     {
       "date": "2026-11-12",
@@ -154,6 +154,20 @@
       "unit": "pallets",
       "notes": "",
       "id": "rmwchzh61hhu2"
+    },
+    {
+      "date": "2026-11-19",
+      "time": "08:00",
+      "carrier": "Pick Up - KeHE",
+      "customer": "",
+      "ref": "4001616",
+      "door": "",
+      "type": "LTL / Freight",
+      "status": "scheduled",
+      "qty": 1,
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmwjtdl15i1d5"
     },
     {
       "date": "2026-11-20",
