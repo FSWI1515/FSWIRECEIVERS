@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T21:53:43.332Z",
+  "updated": "2026-11-16T21:59:54.460Z",
   "receivers": [
     {
       "date": "2026-11-12",
@@ -112,6 +112,20 @@
       "unit": "pallets",
       "notes": "",
       "id": "rmwjsvz50nwe2"
+    },
+    {
+      "date": "2026-11-17",
+      "time": "08:00",
+      "carrier": "Schutzman",
+      "customer": "",
+      "ref": "Appt#021 8am",
+      "door": "",
+      "type": "LTL / Freight",
+      "status": "scheduled",
+      "qty": 18,
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmwjt3xi408na"
     },
     {
       "date": "2026-11-17",
