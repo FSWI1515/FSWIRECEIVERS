@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T22:07:24.857Z",
+  "updated": "2026-11-17T13:38:32.988Z",
   "receivers": [
     {
       "date": "2026-11-12",
@@ -182,6 +182,20 @@
       "unit": "pallets",
       "notes": "",
       "id": "rmwdzkt7dpx0z"
+    },
+    {
+      "date": "2026-11-20",
+      "time": "08:30",
+      "carrier": "TML - #502",
+      "customer": "",
+      "ref": "PO 010242",
+      "door": "",
+      "type": "LTL / Freight",
+      "status": "scheduled",
+      "qty": 17,
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmwkqn15osk38"
     }
   ]
 }
