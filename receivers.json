@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T13:38:32.988Z",
+  "updated": "2026-11-18T14:40:32.174Z",
   "receivers": [
     {
       "date": "2026-11-12",
@@ -168,6 +168,20 @@
       "unit": "pallets",
       "notes": "",
       "id": "rmwjtdl15i1d5"
+    },
+    {
+      "date": "2026-11-19",
+      "time": "10:00",
+      "carrier": "PTI",
+      "customer": "",
+      "ref": "O&H 4 skids Item#20077",
+      "door": "",
+      "type": "LTL / Freight",
+      "status": "scheduled",
+      "qty": 4,
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmwm8alke6sa4"
     },
     {
       "date": "2026-11-20",
