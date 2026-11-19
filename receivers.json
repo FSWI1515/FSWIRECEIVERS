@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T14:41:19.469Z",
+  "updated": "2026-11-19T13:58:10.603Z",
   "receivers": [
     {
       "date": "2026-11-12",
@@ -84,6 +84,20 @@
       "unit": "pallets",
       "notes": "#508",
       "id": "rmwe4kt1pvfcw"
+    },
+    {
+      "date": "2026-11-13",
+      "time": "08:00",
+      "carrier": "CONTAINER",
+      "customer": "",
+      "ref": "Uncommon Appt#088",
+      "door": "",
+      "type": "LTL / Freight",
+      "status": "scheduled",
+      "qty": 20,
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmwnm7z57vhwp"
     },
     {
       "date": "2026-11-16",
