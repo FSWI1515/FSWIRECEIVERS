@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T14:31:08.339Z",
+  "updated": "2026-11-20T17:23:48.357Z",
   "receivers": [
     {
       "date": "2026-11-12",
@@ -266,6 +266,20 @@
       "unit": "pallets",
       "notes": "",
       "id": "rmwp2tjks42hb"
+    },
+    {
+      "date": "2026-11-23",
+      "time": "09:00",
+      "carrier": "Columbus",
+      "customer": "",
+      "ref": "O&H Palm Oil Appt#088",
+      "door": "",
+      "type": "LTL / Freight",
+      "status": "scheduled",
+      "qty": 8,
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmwp909olc0nh"
     },
     {
       "date": "2026-12-02",
