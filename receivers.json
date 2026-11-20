@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T13:59:30.697Z",
+  "updated": "2026-11-20T13:21:11.843Z",
   "receivers": [
     {
       "date": "2026-11-12",
@@ -238,6 +238,20 @@
       "unit": "pallets",
       "notes": "",
       "id": "rmwkqn15osk38"
+    },
+    {
+      "date": "2026-12-02",
+      "time": "08:00",
+      "carrier": "UBER",
+      "customer": "",
+      "ref": "Green Foam O&H Appt#044",
+      "door": "",
+      "type": "Full truckload",
+      "status": "scheduled",
+      "qty": 30,
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmwp0c9szo601"
     }
   ]
 }
