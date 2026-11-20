@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T14:29:04.884Z",
+  "updated": "2026-11-20T14:30:36.892Z",
   "receivers": [
     {
       "date": "2026-11-12",
@@ -252,6 +252,20 @@
       "unit": "pallets",
       "notes": "",
       "id": "rmwp2p3zxscye"
+    },
+    {
+      "date": "2026-11-23",
+      "time": "08:00",
+      "carrier": "PTI",
+      "customer": "",
+      "ref": "O&H 10pk RSC Tray",
+      "door": "",
+      "type": "Full truckload",
+      "status": "scheduled",
+      "qty": 56,
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmwp2tjks42hb"
     },
     {
       "date": "2026-11-24",
