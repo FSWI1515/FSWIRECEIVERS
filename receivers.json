@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T17:23:48.357Z",
+  "updated": "2026-11-20T17:24:39.875Z",
   "receivers": [
     {
       "date": "2026-11-12",
@@ -280,6 +280,20 @@
       "unit": "pallets",
       "notes": "",
       "id": "rmwp909olc0nh"
+    },
+    {
+      "date": "2026-11-24",
+      "time": "08:00",
+      "carrier": "LTL",
+      "customer": "",
+      "ref": "DSV 3 skids Appt#044",
+      "door": "",
+      "type": "LTL / Freight",
+      "status": "scheduled",
+      "qty": 3,
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmwp91dfn1gxj"
     },
     {
       "date": "2026-12-02",
