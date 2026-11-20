@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T13:21:11.843Z",
+  "updated": "2026-11-20T14:27:10.078Z",
   "receivers": [
     {
       "date": "2026-11-12",
@@ -238,6 +238,20 @@
       "unit": "pallets",
       "notes": "",
       "id": "rmwkqn15osk38"
+    },
+    {
+      "date": "2026-11-20",
+      "time": "13:00",
+      "carrier": "PTI",
+      "customer": "",
+      "ref": "O&H Trader Joes RSC Appt.#099",
+      "door": "",
+      "type": "Full truckload",
+      "status": "scheduled",
+      "qty": 56,
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmwp2p3zxscye"
     },
     {
       "date": "2026-12-02",
