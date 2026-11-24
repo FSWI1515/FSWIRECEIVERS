@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T17:43:44.150Z",
+  "updated": "2026-11-24T18:09:18.520Z",
   "receivers": [
     {
       "date": "2026-11-12",
@@ -364,6 +364,20 @@
       "unit": "pallets",
       "notes": "",
       "id": "rmwuxk0325j4k"
+    },
+    {
+      "date": "2026-11-30",
+      "time": "12:00",
+      "carrier": "Valley Transit - 105",
+      "customer": "O&H",
+      "ref": "PO 1092838",
+      "door": "",
+      "type": "LTL / Freight",
+      "status": "scheduled",
+      "qty": 16,
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmwv0e6yg9zc7"
     },
     {
       "date": "2026-11-30",
