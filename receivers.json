@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T18:11:07.470Z",
+  "updated": "2026-11-24T16:47:54.104Z",
   "receivers": [
     {
       "date": "2026-11-12",
@@ -294,6 +294,20 @@
       "unit": "pallets",
       "notes": "",
       "id": "rmwp91dfn1gxj"
+    },
+    {
+      "date": "2026-11-25",
+      "time": "10:00",
+      "carrier": "DOHRN",
+      "customer": "",
+      "ref": "HFC 2 skids Penguin",
+      "door": "",
+      "type": "LTL / Freight",
+      "status": "scheduled",
+      "qty": 2,
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmwuxhi48510y"
     },
     {
       "date": "2026-11-25",
