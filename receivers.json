@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T16:50:32.446Z",
+  "updated": "2026-11-24T17:43:44.150Z",
   "receivers": [
     {
       "date": "2026-11-12",
@@ -364,6 +364,20 @@
       "unit": "pallets",
       "notes": "",
       "id": "rmwuxk0325j4k"
+    },
+    {
+      "date": "2026-11-30",
+      "time": "13:00",
+      "carrier": "Great Lakes",
+      "customer": "",
+      "ref": "PO#7894 O&H",
+      "door": "",
+      "type": "Full truckload",
+      "status": "scheduled",
+      "qty": 24,
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmwuzhb12eb2d"
     },
     {
       "date": "2026-12-02",
