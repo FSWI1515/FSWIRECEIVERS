@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T16:49:14.999Z",
+  "updated": "2026-11-24T16:49:50.702Z",
   "receivers": [
     {
       "date": "2026-11-12",
@@ -350,6 +350,20 @@
       "unit": "pallets",
       "notes": "",
       "id": "rmwtl0ocuas2d"
+    },
+    {
+      "date": "2026-11-25",
+      "time": "13:00",
+      "carrier": "CMM",
+      "customer": "",
+      "ref": "CSW O&H Kringle",
+      "door": "",
+      "type": "Full truckload",
+      "status": "scheduled",
+      "qty": 56,
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmwuxk0325j4k"
     },
     {
       "date": "2026-12-02",
