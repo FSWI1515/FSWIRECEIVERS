@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T17:08:59.570Z",
+  "updated": "2026-11-25T17:12:38.378Z",
   "receivers": [
     {
       "date": "2026-11-12",
@@ -434,6 +434,20 @@
       "unit": "pallets",
       "notes": "",
       "id": "rmwwdoh8259yb"
+    },
+    {
+      "date": "2026-12-03",
+      "time": "13:00",
+      "carrier": "HTH Logistics",
+      "customer": "",
+      "ref": "PO#010142 O&H Appt#066",
+      "door": "",
+      "type": "Full truckload",
+      "status": "scheduled",
+      "qty": 24,
+      "unit": "pallets",
+      "notes": "",
+      "id": "rmwwdt622m1k7"
     }
   ]
 }
